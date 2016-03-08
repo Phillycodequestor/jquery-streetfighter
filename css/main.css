@@ -2,7 +2,9 @@ body {
 	background-color: black;
 }
 
-
+h1 {
+	padding-top: 10px;
+}
 .main {
 	background-color: white;
 	margin-top: 110px;
@@ -17,6 +19,7 @@ body {
 	float: left; 
 	width: 659px;
 	height: 494px;
+
 }
 
 .ryu-ready, .ryu-still, .ryu-throwing, .ryu-cool {
